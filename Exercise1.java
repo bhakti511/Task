@@ -25,9 +25,9 @@ class Student{
 	{
 		System.out.println("STUDENT DETAILS: ");
 		System.out.println("Roll number: "+iRollNo+
-							"\nName: " +sName+
-							"\nMarks: "+iMarks+
-							"\nContact number: "+iContact);
+				   "\nName: " +sName+
+				   "\nMarks: "+iMarks+
+				   "\nContact number: "+iContact);
 		
 	}
 	
