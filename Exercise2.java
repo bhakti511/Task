@@ -5,10 +5,10 @@ import java.util.Scanner;
 
 class StudentInfo{
 	
-	public int iRollNo;
-	public String sName;
-	public int iMarks;
-	public long iContact;
+	private int iRollNo;
+	private String sName;
+	private int iMarks;
+	private long iContact;
 	
 	
 	StudentInfo()
